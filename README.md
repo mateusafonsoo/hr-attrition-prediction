@@ -125,7 +125,7 @@ Em conjunto, os dois modelos oferecem às organizações uma visão dupla: quem 
 padrão sistemático de horas extra durante mais de quatro semanas consecutivas e acione automaticamente uma conversa de _check-in_ com o gestor, poderia reduzir a taxa de saída neste grupo de 30.5% para próximo dos 10.4% observados nos colaboradores sem horas extra, evitando cerca de 84 saídas anuais. O custo de implementação é residual face ao impacto potencial na retenção de talento.
 
 ## Como Reproduzir este Projeto
-1. Clone o repositório: `git clone https://github.com/LuiscnFigueira/Projeto-cdg-grupo10`
+1. Clone o repositório: `git clone https://github.com/Projeto-cdg-grupo10`
 2. Instale as dependências: `pip install -r requirements.txt`
 3. Execute os notebooks na pasta `notebooks/` seguindo a ordem numérica.
    
@@ -142,7 +142,7 @@ padrão sistemático de horas extra durante mais de quatro semanas consecutivas 
 
 * **Dataset:** https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset  
 * **Dimensão:** 1470 linhas, 35 colunas  
-* **Fonte do Código:** https://www.kaggle.com/lusfigueira/code 
+* **Fonte do Código:** https://www.kaggle.com/Projeto-cdg-grupo10/code 
 
 ## Vídeo de Apresentação
 
